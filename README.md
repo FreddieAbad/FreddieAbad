@@ -18,7 +18,7 @@ Additionally, I write for the Internet, you can read my posts on <a href='https:
 
 - 💻 [ Website](http://cuencadev.com)
 - ⚡[ Linkedin](https://www.linkedin.com/in/freddy-leonardo-abad-leon-aa3843188/)
-- 📫 [ Intagram](instagram.com/cuencadev)
+- 📫 [ Intagram](https://www.instagram.com/cuencadev/)
 - 💻 [ Medium](https://medium.com/@freddy.abadl)
 - :heavy_check_mark:[ Twitter](https://twitter.com/FreAbad)
 - 📦 [ Hackerrank](https://www.hackerrank.com/freddy_abadl1?hr_r=1)
