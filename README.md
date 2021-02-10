@@ -17,11 +17,10 @@ Additionally, I write for the Internet, you can read my posts on <a href='https:
 ### Contact Page:
 
 - 💻 [ Website](http://cuencadev.com)
-- ⚡[ Linkedin](https://www.linkedin.com/in/freddy-leonardo-abad-leon-aa3843188/)
+- ⚡[ Linkedin](https://www.linkedin.com/in/freddyabad/)
 - 📫 [ Intagram](https://www.instagram.com/cuencadev/)
-- 💻 [ Medium](https://medium.com/@freddy.abadl)
+- 💻 [ Medium](https://freddy-abadl.medium.com)
 - :heavy_check_mark:[ Twitter](https://twitter.com/FreAbad)
 - 📦 [ Hackerrank](https://www.hackerrank.com/freddy_abadl1?hr_r=1)
-- 🤖 [ StackOverflow](https://www.linkedin.com/in/freddy-leonardo-abad-leon-aa3843188/)
 
 
